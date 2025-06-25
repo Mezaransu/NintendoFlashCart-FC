@@ -1,3 +1,4 @@
+# Board Thickness For 1.2MM
 # Mapper007
 * Board : AxROM
 * PRG ROM : 512K
