@@ -1,9 +1,8 @@
 # Mapper007
-
-Board : AxROM
-PRG ROM : 512K
-CHR RAM : 8K
+* Board : AxROM
+* PRG ROM : 512K
+* CHR RAM : 8K
 # Mapper066
-Board : GxROM
-PRG ROM : 512K
-CHR ROM : 128K
+* Board : GxROM
+* PRG ROM : 512K
+* CHR ROM : 128K
