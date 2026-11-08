@@ -33,8 +33,17 @@
   M : Mirror\
   D : PPU BANK mode
 * REG $D000-D003\
-  CCCC CCCC
+  CCCC CCCC\
   C : CHR BANK at $0000-$0FFF
 * REG $E000-E003\
-  CCCC CCCC
+  CCCC CCCC\
   C : CHR BANK at $1000-$1FFF
+* REG $F000\
+  DDDD DDDD\
+  D : IRQ latch
+* REG $F001 or $F002\
+  xxxx xxDD\
+  D : IRQ control
+* REG $F000 or $F001\
+  AAAA AAAA\
+  A : IRQ acknowledge\
