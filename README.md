@@ -48,5 +48,5 @@
   AAAA AAAA\
   A : IRQ acknowledge\
 * REG $9000-$9003,$A000-$A002,$B000-$B002\
-  AAAA AAAA
-  S : VRC6 audio
+  AAAA AAAA\
+  A : VRC6 audio
