@@ -15,3 +15,7 @@
 * PPPP CCCC
 * P : PRG BANK
 * C : CHR BANK
+# Mapper024 & Mapper026
+* Board : VRC6a & VRC6b
+* PRG ROM : 256K
+* CHR ROM : 256K
