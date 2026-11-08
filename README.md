@@ -22,6 +22,14 @@
 * REG $8000-$8003\
   xxxx PPPP\
   P : PRG BANK at $8000-BFFF
-* REG $C000-$C003
+* REG $C000-$C003\
   xxxP PPPP\
   P : PRG BANK at $C000-DFFF
+* REG $B003\
+  WxPN MMDD\
+  W : PRG RAM enable\
+  P : CHR A10 mode\
+  N : Nametable mode\
+  M : Mirror\
+  D : PPU BANK mode
+  
