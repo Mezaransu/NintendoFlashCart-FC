@@ -1,4 +1,4 @@
-# '#ff00ff'Board Thickness For 1.2MM
+# Board Thickness For 1.2MM
 ## Mapper007
 * Board : AxROM
 * PRG ROM : 512K
@@ -19,5 +19,6 @@
 * Board : VRC6a & VRC6b
 * PRG ROM : 256K
 * CHR ROM : 256K
-* REG $8000-$8003
-* 
+* REG $8000-$8003\
+  xxxx PPPP\
+  P : PRG BANK\
