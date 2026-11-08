@@ -32,4 +32,9 @@
   N : Nametable mode\
   M : Mirror\
   D : PPU BANK mode
-  
+* REG $D000-D003\
+  CCCC CCCC
+  C : CHR BANK at $0000-$0FFF
+* REG $E000-E003\
+  CCCC CCCC
+  C : CHR BANK at $1000-$1FFF
