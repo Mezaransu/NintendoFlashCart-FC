@@ -11,10 +11,10 @@
 * Board : GxROM
 * PRG ROM : 512K
 * CHR ROM : 128K
-* REG $8000-$FFFF
-~ PPPP CCCC
-~ P : PRG BANK
-~ C : CHR BANK
+* REG $8000-$FFFF\
+  PPPP CCCC\
+  P : PRG BANK\
+  C : CHR BANK
 # Mapper024 & Mapper026
 * Board : VRC6a & VRC6b
 * PRG ROM : 256K
