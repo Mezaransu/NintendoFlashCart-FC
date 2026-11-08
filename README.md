@@ -22,4 +22,4 @@
 * REG $8000-$8003\
   xxxx PPPP\
   P : PRG BANK\
-  REG
+* REG $C000-$C003
